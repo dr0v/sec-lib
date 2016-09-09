@@ -12,4 +12,10 @@
 
 [物理黑：关于HID的一些攻击姿势解析](http://www.freebuf.com/articles/system/92519.html)
 
+[永不消逝的电波（四）：从无线电角度揭秘定位劫持](http://www.freebuf.com/news/special/87353.html)
 
+[闭路电视DVR的破解过程](http://bobao.360.cn/learning/detail/2747.html)
+
+[闭路电视探头究竟有多不安全？](http://www.freebuf.com/vuls/96412.html)
+
+[PWNING CCTV CAMERAS](https://www.pentestpartners.com/blog/pwning-cctv-cameras/)
