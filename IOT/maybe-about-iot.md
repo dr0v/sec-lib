@@ -1,4 +1,4 @@
-## Android Dynamic Analysis
+## Maybe About IOT
 
 [Custom made versatile autonomous MiTM WiFi box v1.0](http://blog.gerzic.rs/custom-made-versatile-autonomous-mitm-wifi-box)
 
@@ -19,3 +19,8 @@
 [闭路电视探头究竟有多不安全？](http://www.freebuf.com/vuls/96412.html)
 
 [PWNING CCTV CAMERAS](https://www.pentestpartners.com/blog/pwning-cctv-cameras/)
+
+[TheFatRat：Msfvenom傻瓜化后门生成工具](http://www.freebuf.com/sectool/113597.html)(**其实跟iot没啥关系**)
+
+[WiFi安全（PIN码穷举破解、握手包跑字典）](http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458279512&idx=1&sn=2bfbaff70e31bdd4f5f76977962b1943&scene=1&srcid=0906BFO0gYKwkb9aUj4COORC#rd)
+
