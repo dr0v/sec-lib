@@ -24,3 +24,9 @@
 
 [WiFi安全（PIN码穷举破解、握手包跑字典）](http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458279512&idx=1&sn=2bfbaff70e31bdd4f5f76977962b1943&scene=1&srcid=0906BFO0gYKwkb9aUj4COORC#rd)
 
+[开源BTS产品中存在多处漏洞，攻击者或可劫持手机通讯基站](http://www.freebuf.com/vuls/112914.html)
+
+[目前已有超过12万物联网设备构成DDoS僵尸网络](https://jaq.alibaba.com/community/art/show?articleid=498)
+
+[Arduino IoT 设备的安全性分析和漏洞利用](http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf)
+
