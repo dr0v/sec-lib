@@ -23,3 +23,6 @@
 [Marvin: 一个用于在 Android APP 中寻找 Bugs 的系统，支持动静态分析](https://github.com/programa-stic/marvin-django)
 
 [apkr：高级andorid恶意软件分析工具](https://github.com/zerjioang/apkr)
+
+
+[新手教程：如何使用Burpsuite抓取手机APP的HTTPS数据](http://www.freebuf.com/articles/terminal/113940.html)
