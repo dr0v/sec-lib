@@ -1,6 +1,6 @@
 ## Android Dynamic Analysis
 
-传送门：[門](https://github.com/secmobi/wiki.secmobi.com/edit/master/pages/tools/Android-Dynamic-Analysis.md)
+传送门：[門](https://github.com/secmobi/wiki.secmobi.com/)
 
 [四个参数搞定安卓驱动fuzzing](http://www.freebuf.com/tools/92638.html)
 
@@ -24,5 +24,14 @@
 
 [apkr：高级andorid恶意软件分析工具](https://github.com/zerjioang/apkr)
 
-
 [新手教程：如何使用Burpsuite抓取手机APP的HTTPS数据](http://www.freebuf.com/articles/terminal/113940.html)
+
+[Android逆向之旅—静态方式破解微信获取聊天记录和通讯录信息](http://blog.csdn.net/jiangwei0910410003/article/details/52238891)
+
+[Android Webview 远程代码执行之GetClassLoader分析](http://www.droidsec.cn/android-webview-%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E4%B9%8Bgetclassloader)
+
+[如何在暗网中收集公开情报资源（上集）：利用OnionScan搭建属于自己的暗网搜索引擎](http://bobao.360.cn/learning/detail/2952.html)
+
+[如何在暗网中收集公开情报资源（下集）－Python＋Shodan＋SSH密钥](http://bobao.360.cn/learning/detail/2955.html)
+
+[26款优秀的Android逆向工程工具](http://www.freebuf.com/sectool/111532.html) 

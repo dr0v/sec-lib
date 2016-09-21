@@ -30,3 +30,12 @@
 
 [Arduino IoT 设备的安全性分析和漏洞利用](http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf)
 
+[BCBP登机牌安全研究の第一弹](http://bobao.360.cn/news/detail/3448.html)
+
+[BCBP登机牌安全研究の第二弹](http://bobao.360.cn/news/detail/3449.html)
+
+[BCBP登机牌安全研究の第三弹](http://bobao.360.cn/news/detail/3450.html)
+
+[大众曝漏洞：1亿大众汽车门锁可被远程打开](http://www.freebuf.com/news/111769.html)
+
+
