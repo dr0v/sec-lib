@@ -35,3 +35,8 @@
 [如何在暗网中收集公开情报资源（下集）－Python＋Shodan＋SSH密钥](http://bobao.360.cn/learning/detail/2955.html)
 
 [26款优秀的Android逆向工程工具](http://www.freebuf.com/sectool/111532.html) 
+
+[Android系统篇之----免root实现Hook系统服务拦截方法](http://blog.csdn.net/jiangwei0910410003/article/details/52523679)
+
+
+

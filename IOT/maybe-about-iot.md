@@ -38,4 +38,10 @@
 
 [大众曝漏洞：1亿大众汽车门锁可被远程打开](http://www.freebuf.com/news/111769.html)
 
+[如何利用c118搭建基站发短信实验？](http://www.freebuf.com/articles/wireless/114517.html)
 
+[三星智能监控摄像头被爆远程代码执行漏洞（含POC）](http://bobao.360.cn/learning/detail/2964.html)
+
+[细说USB安全：这年头真的还有USB设备是安全的吗？](http://www.freebuf.com/articles/terminal/111905.html)
+
+[腾讯科恩实验室最新研究成果：对特斯拉的无物理接触远程攻击](http://keenlab.tencent.com/zh/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars)
