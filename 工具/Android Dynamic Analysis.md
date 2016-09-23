@@ -38,5 +38,6 @@
 
 [Android系统篇之----免root实现Hook系统服务拦截方法](http://blog.csdn.net/jiangwei0910410003/article/details/52523679)
 
+[CuckooDroid - Android 恶意软件自动化分析框架](http://www.darknet.org.uk/2016/08/cuckoodroid-automated-android-malware-analysis/)
 
 
