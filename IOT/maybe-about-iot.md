@@ -45,3 +45,6 @@
 [细说USB安全：这年头真的还有USB设备是安全的吗？](http://www.freebuf.com/articles/terminal/111905.html)
 
 [腾讯科恩实验室最新研究成果：对特斯拉的无物理接触远程攻击](http://keenlab.tencent.com/zh/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars)
+
+[免费路由的内幕与真相：留后门劫持流量窃取用户隐私](http://www.freebuf.com/articles/terminal/110542.html)
+
