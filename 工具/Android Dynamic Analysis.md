@@ -40,4 +40,8 @@
 
 [CuckooDroid - Android 恶意软件自动化分析框架](http://www.darknet.org.uk/2016/08/cuckoodroid-automated-android-malware-analysis/)
 
+[JEB 2.0.6.201508252211 破解版](http://www.52pojie.cn/thread-518338-1-1.html)
+
+[TaintART -通过修改编译器(dex2oat)来实现数据流分析的系统](http://securitygossip.com/blog/2016/09/27/2016-09-27)
+
 
