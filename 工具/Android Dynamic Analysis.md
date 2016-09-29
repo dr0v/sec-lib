@@ -44,4 +44,8 @@
 
 [TaintART -通过修改编译器(dex2oat)来实现数据流分析的系统](http://securitygossip.com/blog/2016/09/27/2016-09-27)
 
+[用 AndBug 逆向调试器调试 Android APP](http://resources.infosecinstitute.com/android-hacking-and-security-part-23-introduction-to-debugging-android-apps-using-andbug)
 
+[Hackode:一款android下多功能的渗透工具集](http://www.kalitut.com/2015/11/hackode-android-penetration-tester.html)
+
+[Bytecode Viewer-一款基于Java 8的Android APK逆向工具包](http://bobao.360.cn/news/detail/3343.html)

@@ -48,3 +48,4 @@
 
 [免费路由的内幕与真相：留后门劫持流量窃取用户隐私](http://www.freebuf.com/articles/terminal/110542.html)
 
+[Android 和 Apple Watch 上的 7 款健身手环的安全性分析](https://www.av-test.org/fileadmin/pdf/avtest_2016-07_fitness_tracker_english.pdf)
