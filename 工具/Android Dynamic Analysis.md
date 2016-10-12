@@ -49,3 +49,5 @@
 [Hackode:一款android下多功能的渗透工具集](http://www.kalitut.com/2015/11/hackode-android-penetration-tester.html)
 
 [Bytecode Viewer-一款基于Java 8的Android APK逆向工具包](http://bobao.360.cn/news/detail/3343.html)
+
+[13 个不错的代码反混淆工具](https://hackerlists.com/deobfuscation-tools/)

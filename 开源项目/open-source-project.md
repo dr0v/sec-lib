@@ -23,3 +23,19 @@
 [Samsung 基带实现中的安全漏洞及利用](https://github.com/comsecuris/shannonRE)
 
 [AndroidBinder - Android 内核 IPC 防火墙](https://github.com/dxwu/AndroidBinder)
+
+[一个新的 Android 插桩框架 Diff-Droid ](https://github.com/antojoseph/diff-gui)
+
+[OSTrICa - 一款开源的威胁情报收集工具](https://github.com/Ptr32Void/OSTrICa)
+
+[Inspector : 面向andorid通过API HOOKS实行动态分析的开源工具](https://github.com/ac-pm/Inspeckage)
+
+[usb2fac - 为新插入的 USB 设备提供两步验证的工具](https://github.com/uber/usb2fac)
+
+[一些比较好的安全会议整理](https://github.com/PaulSec/awesome-sec-talks)
+
+[应用安全相关的学习资料，包括书、网站](https://github.com/paragonie/awesome-appsec)
+
+[绕过iOS 9.3.5代码签名的POC](https://github.com/kpwn/935csbypass)
+
+[乌云知识库的一个搜索工具](https://github.com/grt1st/wooyun_search)
