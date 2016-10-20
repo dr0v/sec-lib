@@ -54,3 +54,11 @@
 
 [D-Link Wi-Fi 摄像头存在漏洞，该摄像头在该公司多达 120 款产品中使用](https://threatpost.com/d-link-wi-fi-camera-flaw-extends-to-120-products/119097/)
 
+[Dlink DWR-932B路由器被爆多个安全漏洞](http://bobao.360.cn/learning/detail/3079.html)
+
+[Senrio - 网络中的 IoT 设备发现工具](https://securityledger.com/2016/06/startup-senrio-sniffs-out-stealth-iot-devices-on-your-network/)
+
+[Sabertooth - 三行代码实现通过浏览器与蓝牙设备交互](https://sabertooth-io.github.io/)
+
+[D-link Wi-Fi 摄像头存在一个可远程攻击的漏洞（未修复）](https://threatpost.com/unpatched-d-link-wi-fi-camera-flaw-remotely-exploitable/118549/)
+

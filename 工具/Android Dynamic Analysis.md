@@ -51,3 +51,19 @@
 [Bytecode Viewer-一款基于Java 8的Android APK逆向工具包](http://bobao.360.cn/news/detail/3343.html)
 
 [13 个不错的代码反混淆工具](https://hackerlists.com/deobfuscation-tools/)
+
+[Android平台渗透测试套件–zANTI2.5](http://www.mottoin.com/89755.html)
+
+[DROID-HUNTER：Android应用程序漏洞分析测试工具](http://www.mottoin.com/89977.html)
+
+[APK 中的反调试技巧](http://drops.wooyun.org/mobile/16969)
+
+[渗透测试工具清单（包括详细的工具使用步骤、命令行参数）](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+
+[还原 AppSolid 加固后的文件](https://www.pnfsoftware.com/blog/defeating-appsolid-android-protector/)
+
+[检测逃逸工具 HTTP-Evader 所用的逃逸技术](http://blogs.cisco.com/security/advanced-malware-evasion-techniques-http-evader)
+
+[Dalvik 字节码自篡改原理及实现](http://drops.wooyun.org/mobile/16677)
+
+[动态静态结合的 Android 恶意软件分析](http://resources.infosecinstitute.com/android-malware-analysis-2/)
