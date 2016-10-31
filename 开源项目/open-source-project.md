@@ -71,3 +71,23 @@
 [逆向相关的资料收集整理](https://github.com/0xtyh/awesome-reversing)
 
 [android上的WPS攻击工具](https://github.com/Droid-MAX/bully)
+
+[Android 安全概览手册，来自作者 doridori 的个人总结和资料收集](https://github.com/doridori/Android-Security-Reference)
+
+[JADE  － 基于Soot的APK漏洞分析工具已上传开源版本，附上规则文件、编译好的binary，即下即用。](https://github.com/flankerhqd/JADE)
+
+[MopEye - 一个基于 VPN 服务、用于监控 Android APP 网络活动的工具](https://daoyuan14.github.io/papers/CoNEXT15_Poster_MopEye.pdf)
+
+[web和android安全评估方面的cheatsheets](https://github.com/iamthefrogy/Application-Security)
+
+[Malware Exploit Database](https://github.com/misterch0c/malSploitBase)
+
+[jniostorlab - Script to enumerate JNI methods in ELF files.](https://github.com/ostorlab/jniostorlab)
+
+[新一代的Exploit 开发工具包](https://github.com/b3mb4m/shellsploit-framework)
+
+[WiFi-Pumpkin v0.7.5:虚假WIFI访问点的利用框架](https://github.com/P0cL4bs/WiFi-Pumpkin)
+
+[BugId - SkyLined 写的一个漏洞检测、分析工具](https://github.com/SkyLined/BugId)
+
+[XSS 检测逃逸（Payload 生成器 + 自删除代码）](http://brutelogic.com.br/blog/avoiding-xss-detection/)

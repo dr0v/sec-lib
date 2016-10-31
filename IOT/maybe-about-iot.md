@@ -62,3 +62,6 @@
 
 [D-link Wi-Fi 摄像头存在一个可远程攻击的漏洞（未修复）](https://threatpost.com/unpatched-d-link-wi-fi-camera-flaw-remotely-exploitable/118549/)
 
+[Hacking the Kinect (Guide to Reverse Engineering USB protocols) ](https://learn.adafruit.com/hacking-the-kinect/overview)
+
+[Abusing Easy Smart TP-Link switches. How to sniff and crack admin creds:](https://www.pentestpartners.com/blog/how-i-can-gain-control-of-your-tp-link-home-switch/)

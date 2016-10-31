@@ -67,3 +67,11 @@
 [Dalvik 字节码自篡改原理及实现](http://drops.wooyun.org/mobile/16677)
 
 [动态静态结合的 Android 恶意软件分析](http://resources.infosecinstitute.com/android-malware-analysis-2/)
+
+[安卓动态调试七种武器之长生剑](http://jaq.alibaba.com/community/art/show?articleid=339)
+
+[How to: Testing Android Application Security, Part 1](https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-1/)
+
+[一种常规Android脱壳技术的拓展（附工具）](http://www.freebuf.com/sectool/105147.html)
+
+[Android APP 内存 Dump 和分析](http://resources.infosecinstitute.com/android-hacking-dumping-and-analyzing-applications-memory/)
