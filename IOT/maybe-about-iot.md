@@ -65,3 +65,23 @@
 [Hacking the Kinect (Guide to Reverse Engineering USB protocols) ](https://learn.adafruit.com/hacking-the-kinect/overview)
 
 [Abusing Easy Smart TP-Link switches. How to sniff and crack admin creds:](https://www.pentestpartners.com/blog/how-i-can-gain-control-of-your-tp-link-home-switch/)
+
+[ATMZombie: banking trojan in Israeli waters ](https://securelist.com/blog/research/73866/atmzombie-banking-trojan-in-israeli-waters/)
+
+[当地铁遇上黑客，会有什么故事发生](http://www.freebuf.com/articles/terminal/98026.html)
+
+[GSM Hacking:静默短信（Silent SMS）在技术侦查中的应用](http://www.freebuf.com/articles/terminal/98848.html)
+
+[Bluetooth Hacking ① :如何利用MouseJack进行物理攻击（鼠标篇）](http://www.freebuf.com/articles/terminal/97011.html)
+
+[走进VR游戏开发世界 揭秘与传统游戏差异](http://www.tuicool.com/articles/Y3eUf2j)
+
+[针对 Steam 游戏平台的攻击行动](https://securelist.com/blog/research/74137/all-your-creds-are-belong-to-us/ )
+
+[揭秘黑客是如何黑掉三星NX300智能相机的](http://www.freebuf.com/vuls/99951.html)
+
+[Reverse Engineering Digital Signals：数字信号逆向](https://www.fleark.de/keyfob.pdf)
+
+[使用ESP8266模块构建以太网连接的远程wifi嗅探平台](http://phasenoise.livejournal.com/4003.html)
+
+[Hacking Tesla Model S - 获取触摸屏的 ROOT 权限](http://www.su-tesla.space/2016/04/hack-s.html)

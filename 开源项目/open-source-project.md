@@ -91,3 +91,20 @@
 [BugId - SkyLined 写的一个漏洞检测、分析工具](https://github.com/SkyLined/BugId)
 
 [XSS 检测逃逸（Payload 生成器 + 自删除代码）](http://brutelogic.com.br/blog/avoiding-xss-detection/)
+
+[MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
+
+[Mobile-Security-Framework-MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
+
+[Machinae:一款使用Python编写的安全情报收集工具，其灵感来自automater,支持收集IP地址、域名、URL、邮箱和文件hash和SSL指纹等信息](https://github.com/HurricaneLabs/machinae)
+
+[AndroidKernelExploitationPlayground - Android 内核漏洞利用练习](https://github.com/Fuzion24/AndroidKernelExploitationPlayground)
+
+[这个工具主要是内核方面的，之前还推送过 Android 应用方面的漏洞靶场](https://github.com/nil1666/AuditDroid) [diva](https://github.com/payatu/diva-android/)
+
+[honggfuzz 发布 0.7 版本, honggfuzz 是个通用型 Android Fuzz 工具, 支持 Linux、 Mac OS X、 Windows 等多种操作系统, 另外支持 AddressSanitizer 代码覆盖率评估、 支持 Intel BTS、 支持 AMD/Intel 指令/分支计数](https://github.com/google/honggfuzz/releases/tag/0.7)
+
+[Android 内核安全机制概览 ](https://github.com/ukanth/afwall/wiki/Kernel-security)
+
+[WhatsPwn:在andorid上提取敏感数据。注入后门的工具](https://github.com/jlrodriguezf/WhatsPwn)
+

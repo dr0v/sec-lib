@@ -75,3 +75,13 @@
 [一种常规Android脱壳技术的拓展（附工具）](http://www.freebuf.com/sectool/105147.html)
 
 [Android APP 内存 Dump 和分析](http://resources.infosecinstitute.com/android-hacking-dumping-and-analyzing-applications-memory/)
+
+[用移动安全框架 MobSF 自动化地测试手机应用, MobSF 支持 Android 和 iOS](http://seclists.org/fulldisclosure/2016/Mar/45?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29) and [mobsf](http://www.slideshare.net/ajin25/nullcon-goa-2016-automated-mobile-application-security-testing-with-mobile-security-framework-mobsf)
+
+[jsifenum - 用于枚举 Javascript 接口和方法的 Drozer 模块，这可以辅助检测 addJavascriptInterface 漏洞](https://github.com/droidsec/jsif-enumerator)
+
+[Apktool v2.1.0 发布，详细的发布日志](http://connortumbleson.com/2016/03/27/apktool-v2-1-0-released/)
+
+[droidsheep-2.0稳定版发行:android会话劫持安全测试工具](https://github.com/veekoon/droidsheep-2.0?platform=hootsuite)
+
+
