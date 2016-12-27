@@ -84,4 +84,17 @@
 
 [droidsheep-2.0稳定版发行:android会话劫持安全测试工具](https://github.com/veekoon/droidsheep-2.0?platform=hootsuite)
 
+[工具推荐：Scanner Routerhunter，路由器漏洞扫描器](http://www.freebuf.com/sectool/101180.html)
+
+[动态二进制分析与代码混淆，其中作者还介绍了一个分析框架 Triton](http://triton.quarkslab.com/files/sthack2016-rthomas-jsalwan.pdf)
+
+[利用 Android JEB 调试器 API Hook 加密流程，提取输入输出参数](https://www.pnfsoftware.com/blog/crypto-monitoring-android-debuggers-api/)   [示例代码](https://github.com/pnfsoftware/jeb2-samplecode/tree/master/src/com/pnf/andhook)
+
+[如何利用android备份导出沙盒APP文件](https://www.pentestpartners.com/blog/how-to-subvert-android-backups-to-export-sandboxed-app-files/)
+
+[工具推荐：三款自动化代码审计工具](http://www.freebuf.com/sectool/101256.html)
+
+[ReDex - Facebook 开发的 Android 字节码优化工具：](http://fbredex.com/)
+
+[WhatsPwn: 用于在 Android 设备上提取敏感信息、注入后门、释放远程 Shell 的工具，Github Repo︰](https://github.com/jlrodriguezf/WhatsPwn)
 

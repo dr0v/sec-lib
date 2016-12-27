@@ -74,6 +74,8 @@
 
 [Bluetooth Hacking ① :如何利用MouseJack进行物理攻击（鼠标篇）](http://www.freebuf.com/articles/terminal/97011.html)
 
+[攻击 uboot，解锁 Amazon kindle ](http://spudowiar.me/android/bootloader/2016/03/03/kfsowi-bootloader-cracked/ )
+
 [走进VR游戏开发世界 揭秘与传统游戏差异](http://www.tuicool.com/articles/Y3eUf2j)
 
 [针对 Steam 游戏平台的攻击行动](https://securelist.com/blog/research/74137/all-your-creds-are-belong-to-us/ )
@@ -85,3 +87,19 @@
 [使用ESP8266模块构建以太网连接的远程wifi嗅探平台](http://phasenoise.livejournal.com/4003.html)
 
 [Hacking Tesla Model S - 获取触摸屏的 ROOT 权限](http://www.su-tesla.space/2016/04/hack-s.html)
+
+[Samsung Galaxy调制解调器接口通过usb暴露](https://github.com/ud2/advisories)
+
+[Cellebrite 公司正在开发一款智能手机取证设备，这个设备可以判断用户在某个时间点是否在使用手机。这个可用于判断交通事故中驾驶员当时是否在玩手机](https://www.schneier.com/blog/archives/2016/04/smartphone_fore.html)
+
+[用智能手机攻击 kevo 蓝牙智能锁，来自 CanSecWest 2016 会议](http://www.slideshare.net/CanSecWest/csw2016-song-lismartwars)
+
+[IOT设备将有可能被黑客部署木马](http://bobao.360.cn/news/detail/2948.html )
+
+[看我如何破解微软手环](http://www.freebuf.com/geek/102491.html)
+
+[AirPort 是苹果的一款无线基站（路由器）设备](http://embeddedideation.com/2016/04/24/airport-hacking-update/)
+
+[Rooting the Amazon Echo， Amazon Echo 是一款智能硬件，可以通过语音控制它以及它所连接的设备](https://rbfi.io/dl.php?key=/w3kf/rooting_the_amazon_echo.pdf)
+
+[在手机App读取银行闪付卡信息的时候进行嗅探&窃听](http://www.freebuf.com/geek/104239.html)

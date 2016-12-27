@@ -108,3 +108,18 @@
 
 [WhatsPwn:在andorid上提取敏感数据。注入后门的工具](https://github.com/jlrodriguezf/WhatsPwn)
 
+[Lisa，Exploit开发利器，作者把它称为Exploit开发的瑞士军刀](https://github.com/ant4g0nist/lisa.py)
+
+[swift for android demo](https://github.com/Ecco/HelloSwift)
+
+[andorid恶意分析脚本](https://github.com/acgmohu/amas)
+
+[Anti-Sandbox and Anti-Virtual Machine Tool, Sems - 用于探测各种沙盒、虚拟机环境的工具](https://github.com/AlicanAkyol/sems)
+
+[FeatherDuster - NCC Group 开源的一个加密破坏工具](https://github.com/nccgroup/featherduster)
+
+[Census Shadow - Firefox/jemalloc 堆利用瑞士军刀，之前推送过这个工具，该工具目前正在考虑支持 Android jemalloc](https://github.com/CENSUS/shadow)
+
+[Android tty_insert_flip_string_fixed_flag 条件竞争漏洞（CVE-2014-0196） PoC](https://github.com/anarcheuz/Android-PoCs/tree/master/CVE-2014-0196)
+
+[su-a-cyder - An Home-Brewed iOS Malware PoC Generator su-a-cyder](https://github.com/Mi3Security/su-a-cyder)
