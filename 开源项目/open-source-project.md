@@ -123,3 +123,5 @@
 [Android tty_insert_flip_string_fixed_flag 条件竞争漏洞（CVE-2014-0196） PoC](https://github.com/anarcheuz/Android-PoCs/tree/master/CVE-2014-0196)
 
 [su-a-cyder - An Home-Brewed iOS Malware PoC Generator su-a-cyder](https://github.com/Mi3Security/su-a-cyder)
+
+[MARA_Framework -- 一个用于逆向移动应用与分析的框架](https://github.com/xtiankisutsa/MARA_Framework)

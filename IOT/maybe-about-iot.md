@@ -103,3 +103,16 @@
 [Rooting the Amazon Echo， Amazon Echo 是一款智能硬件，可以通过语音控制它以及它所连接的设备](https://rbfi.io/dl.php?key=/w3kf/rooting_the_amazon_echo.pdf)
 
 [在手机App读取银行闪付卡信息的时候进行嗅探&窃听](http://www.freebuf.com/geek/104239.html)
+
+[一个新的针对IoT设备的木马NyaDrop在野外流行](http://securityaffairs.co/wordpress/52273/malware/elf-linux-nyadrop-iot.html)
+
+[中国制造IOT设备遭恶意软件Mirai感染成为近期DDOS攻击主力](http://www.freebuf.com/news/116722.html)
+
+[Hajime:一个去中心化的IoT蠕虫](http://news.softpedia.com/news/hajime-iot-worm-considerably-more-sophisticated-than-mirai-509423.shtml)
+
+[多款蓝牙低功耗跟踪器被发现漏洞](https://community.rapid7.com/community/infosec/blog/2016/10/25/multiple-bluetooth-low-energy-ble-tracker-vulnerabilities?CS=social)
+
+[智能硬件设备八大安全问题分析](http://www.freebuf.com/articles/terminal/117262.html)
+
+[你家路由器“有趣”的24小时：路由器真的安全吗？（含视频）](http://www.freebuf.com/news/topnews/117748.html)
+

@@ -98,3 +98,4 @@
 
 [WhatsPwn: 用于在 Android 设备上提取敏感信息、注入后门、释放远程 Shell 的工具，Github Repo︰](https://github.com/jlrodriguezf/WhatsPwn)
 
+[Android App常见逆向工具和使用技巧](http://bobao.360.cn/learning/detail/3126.html)
