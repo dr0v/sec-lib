@@ -125,3 +125,8 @@
 [su-a-cyder - An Home-Brewed iOS Malware PoC Generator su-a-cyder](https://github.com/Mi3Security/su-a-cyder)
 
 [MARA_Framework -- 一个用于逆向移动应用与分析的框架](https://github.com/xtiankisutsa/MARA_Framework)
+
+[Awesome-Hacking：优秀的安全/黑客学习资源汇总](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+[两个Android 漏洞（cve-2016-6700，cve-2016-6702）PoC](https://github.com/ele7enxxh/poc-exp)
+

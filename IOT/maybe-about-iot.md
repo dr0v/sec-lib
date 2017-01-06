@@ -116,3 +116,9 @@
 
 [你家路由器“有趣”的24小时：路由器真的安全吗？（含视频）](http://www.freebuf.com/news/topnews/117748.html)
 
+[Dlink DIR路由器HNAP登录函数的多个漏洞](http://bobao.360.cn/learning/detail/3191.html)
+ 
+[每个无线路由器都是窃听神器：房间里的一举一动它都能感应](http://www.freebuf.com/news/119120.html)
+
+[New IoT botnet behind fake Instagram, Twitter and YouTube profiles](http://www.ibtimes.co.uk/new-iot-botnet-behind-fake-instagram-twitter-youtube-profiles-1592761)
+

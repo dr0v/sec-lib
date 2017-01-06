@@ -99,3 +99,14 @@
 [WhatsPwn: 用于在 Android 设备上提取敏感信息、注入后门、释放远程 Shell 的工具，Github Repo︰](https://github.com/jlrodriguezf/WhatsPwn)
 
 [Android App常见逆向工具和使用技巧](http://bobao.360.cn/learning/detail/3126.html)
+
+[iRET：IOS 逆向渗透测试工具套件](http://www.mottoin.com/91857.html)
+
+[apk-deguard在线APK反混淆工具，理论上ProGurad混淆的代码80%都可以恢复出来](http://www.apk-deguard.com)
+
+[Android中热修复框架AndFix原理解析及案例使用](http://mp.weixin.qq.com/s/qd1lWKj0f37KxpVDPyolww)
+ 
+[Fuzzing Android：挖掘Android系统组件组件中的漏洞](http://bobao.360.cn/learning/detail/3213.html)
+
+[iOS逆向：App脱壳/ipa破解](http://www.mottoin.com/92530.html )
+
