@@ -130,3 +130,7 @@
 
 [两个Android 漏洞（cve-2016-6700，cve-2016-6702）PoC](https://github.com/ele7enxxh/poc-exp)
 
+[Threat-Intelligence-Analyst](https://github.com/pandazheng/Threat-Intelligence-Analyst)
+
+[移动应用渗透测试备忘录](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
+

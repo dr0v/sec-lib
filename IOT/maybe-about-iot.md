@@ -122,3 +122,36 @@
 
 [New IoT botnet behind fake Instagram, Twitter and YouTube profiles](http://www.ibtimes.co.uk/new-iot-botnet-behind-fake-instagram-twitter-youtube-profiles-1592761)
 
+[美国或将再次遭遇大规模断网?!西海岸遭受每秒400G新型僵尸网络攻击](https://www.easyaq.com/newsdetail/id/1347269875.shtml)
+ 
+[索尼80款监控摄像头存秘密后门，IoT设备的加速沦陷](https://jaq.alibaba.com/community/art/show?spm=a313e.7916642.220000NaN1.1.2Hz7Dd&articleid=651)
+ 
+[物联网设备安全分析之网络摄像头篇](http://bobao.360.cn/learning/detail/3269.html)
+
+[NetGear多款路由器远程命令注入漏洞分析(更新补丁分析) ](http://bobao.360.cn/learning/detail/3287.html)
+
+[淘宝找回手机业务的“隐藏功能”竟然便宜了骗子！](https://www.anquan.org/news/2531)
+ 
+[通信监听：来自联邦政府的多纲目触手](https://mp.weixin.qq.com/s/p9XelW0FOwPXWctdW2JtLA)
+ 
+[CVE-2016-8655内核竞争条件漏洞调试分析](http://bobao.360.cn/learning/detail/3321.html)
+ 
+[时隔一年，乌克兰再次发生大规模停电事件 ](http://bobao.360.cn/news/detail/3853.html)
+ 
+[黑客发现多个漏洞 轻松破解松下航空机载娱乐IFE系统](http://securityaffairs.co/wordpress/54581/hacking/hacking-ife-systems.html)
+ 
+[一个针对银行的恶意软件Alice出现 可清空ATM机中的现金](http://www.securityweek.com/new-alice-malware-drains-all-cash-atms)
+
+[DNSChanger Malware is Back! Hijacking Routers to Target Every Connected Device](http://thehackernews.com/2016/12/dnschanger-router-malware.html)
+
+[DNC与乌克兰网络攻击共同点：都用了来自俄罗斯的Android恶意软件](http://www.cnbeta.com/articles/570341.htm)
+ 
+[巴诺NOOK电子书感染了广升的恶意程序，回传用户数据至中国](http://www.freebuf.com/news/123879.html)
+
+[国外地下市场出售70W+中国apple账号](http://www.mottoin.com/94716.html)
+ 
+[19个练习黑客技术的在线网站](https://jaq.alibaba.com/community/art/show)
+ 
+[FBI和DHS发布联合报告，奥巴马对俄罗斯涉嫌干预美国大选进行制裁](http://www.freebuf.com/news/124137.html)
+
+[IoTSeeker：物联网设备默认密码扫描检测工具](http://www.freebuf.com/sectool/123977.html)

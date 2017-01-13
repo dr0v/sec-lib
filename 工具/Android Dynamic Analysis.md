@@ -110,3 +110,35 @@
 
 [iOS逆向：App脱壳/ipa破解](http://www.mottoin.com/92530.html )
 
+[Android木马分析流程及实战](http://www.mottoin.com/93078.html)
+ 
+[Android中Xposed框架篇—基于Xposed的一款脱壳神器ZjDroid工具原理解析](http://blog.csdn.net/jiangwei0910410003/article/details/52840602)
+ 
+[打造您自己的Drozer模块，测试Android应用安全 ( 含演示视频）](http://bobao.360.cn/learning/detail/3265.html)
+ 
+[APP漏洞扫描器之未使用地址空间随机化](https://jaq.alibaba.com/community/art/show?spm=a313e.7916642.220000NaN1.1.HogDrU&articleid=640)
+
+[idb -- 一个 iOS 应用程序安全评估工具](http://www.kitploit.com/2016/12/idb-ios-app-security-assessment-tool.html)
+
+[提取 iPhone 6s Secure ROM](http://ramtin-amin.fr/#nvmedma)
+
+[带你开发一款给Apk中自动注入代码工具icodetools(完善篇) ](http://mp.weixin.qq.com/s/kt53s3A4E67qDJRhYCQJSQ)
+
+[物联网安全剖析（slides）](https://github.com/mdsecresearch/Publications/blob/master/presentations/An%20Anatomy%20of%20IoT%20Security_OWASPMCR_Nov2016.pdf)
+
+[一个开源的可视化工具用于分析Android上的 SELinux/SE 安全策略](https://www.invincealabs.com/blog/2016/12/v3spa-announcement/)
+ 
+[基于文件特征的Android模拟器检测（附实现代码下载）](https://mp.weixin.qq.com/s/sl33d2pnyLMJ-fUY_DfBDw)
+ 
+[Android中热修复框架Robust原理解析并将框架代码从"闭源"变成"开源"(上篇)](http://mp.weixin.qq.com/s/qCfVUU2H8eZjK287oCQi-A)
+ 
+[针对 Android 平台上Web code 的细粒度访问控制](http://securitygossip.com/blog/2016/12/20/2016-12-20)
+ 
+通过建立行为模型的 Markov 链来检测 Android 恶意软件
+ 
+[两个CVE案例分析：如何利用Android中的可信区域](http://bobao.360.cn/learning/detail/3327.html)
+
+逆向工具综述 [上](http://bobao.360.cn/learning/detail/3303.html)
+[下](http://bobao.360.cn/learning/detail/3307.html)
+
+
