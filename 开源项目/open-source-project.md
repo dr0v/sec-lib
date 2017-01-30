@@ -134,3 +134,9 @@
 
 [移动应用渗透测试备忘录](https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet)
 
+[FirePhish -- 一个网络钓鱼框架](https://github.com/Raikia/FirePhish)
+
+[Fancy Bear 源码](https://github.com/rickey-g/fancybear)
+
+[simplify 反混淆工具](https://github.com/CalebFenton/simplify)
+

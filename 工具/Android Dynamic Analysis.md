@@ -141,4 +141,13 @@
 逆向工具综述 [上](http://bobao.360.cn/learning/detail/3303.html)
 [下](http://bobao.360.cn/learning/detail/3307.html)
 
+[让你的安卓手机变成HID渗透工具之badandroid](http://www.freebuf.com/articles/terminal/124306.html)
+
+[安卓无线渗透利器：Hijacker](http://www.freebuf.com/sectool/124156.html)
+
+[Android程序反混淆利器——Simplify工具](http://bobao.360.cn/learning/detail/3445.html)
+
+
+
+
 
