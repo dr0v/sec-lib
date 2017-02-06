@@ -126,6 +126,22 @@
 
 [MARA_Framework -- 一个用于逆向移动应用与分析的框架](https://github.com/xtiankisutsa/MARA_Framework)
 
+[su-a-cyder - An Home-Brewed iOS Malware PoC Generator su-a-cyder](https://github.com/Mi3Security/su-a-cyder)
+  
+[MARA_Framework -- 一个用于逆向移动应用与分析的框架](https://github.com/xtiankisutsa/MARA_Framework)
+
+[AndroidViewClient － 脚本测试工具 ＋ monkeyrunner扩展 ＋ 纯python语言](https://github.com/dtmilano/AndroidViewClient)
+
+[SSLyze － SSL安全扫描器](http://www.freebuf.com/sectool/22984.html)
+
+[Recon － Android网络中隐私泄漏检测](https://github.com/Eyasics/recon)
+
+[MobSF － Mobile－security－Framework](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF)
+
+[DECAF － Dynamic Executable code Analysis Framework](https://github.com/sycurelab/DECAF)
+
+[SMVHunter － Android SSL/TLS中间人攻击检测](https://github.com/utds3lab/SMVHunter)
+
 [Awesome-Hacking：优秀的安全/黑客学习资源汇总](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 [两个Android 漏洞（cve-2016-6700，cve-2016-6702）PoC](https://github.com/ele7enxxh/poc-exp)
