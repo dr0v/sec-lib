@@ -147,6 +147,7 @@
 
 [Android程序反混淆利器——Simplify工具](http://bobao.360.cn/learning/detail/3445.html)
 
+[Inspeckage - Android APP -- 动态分析工具，通过 Hook 关键 API 的方式，监控 Android APP 的行为](http://ac-pm.github.io/Inspeckage)
 
 
 
