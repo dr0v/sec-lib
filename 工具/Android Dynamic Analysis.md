@@ -149,6 +149,8 @@
 
 [Inspeckage - Android APP -- 动态分析工具，通过 Hook 关键 API 的方式，监控 Android APP 的行为](http://ac-pm.github.io/Inspeckage)
 
+[OSX/iOS逆向资源合集](https://github.com/michalmalik/osx-re-101)
+
 
 
 

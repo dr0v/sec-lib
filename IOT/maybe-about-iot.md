@@ -160,3 +160,9 @@
 
 [大量Netgear路由器存在密码绕过漏洞，来看你家路由器是否中枪](http://www.freebuf.com/news/126063.html)
 
+[实战栈溢出：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/26271959)
+
+[发条短信，路由器竟主动吐露Wi-Fi密码](http://www.4hou.com/info/news/4249.html)
+
+[近期发现的几个在野 IoT Botnet分析](http://resources.infosecinstitute.com/rise-iot-botnet-beyond-mirai-bot)
+
