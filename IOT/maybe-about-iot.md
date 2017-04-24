@@ -166,3 +166,6 @@
 
 [近期发现的几个在野 IoT Botnet分析](http://resources.infosecinstitute.com/rise-iot-botnet-beyond-mirai-bot)
 
+[物联网新威胁—Hajime蠕虫比Mirai更复杂](http://www.infoworld.com/article/3190524/security/iot-malware-clashes-in-a-botnet-territory-battle.html#tk.rss_security)
+
+
