@@ -168,4 +168,7 @@
 
 [物联网新威胁—Hajime蠕虫比Mirai更复杂](http://www.infoworld.com/article/3190524/security/iot-malware-clashes-in-a-botnet-territory-battle.html#tk.rss_security)
 
+[WikiLeaks 公开CIA入侵三星智能电视的方法](https://wikileaks.org/vault7/#Weeping%20Angel)
+
+[IoT 设备无线协议对照表](http://glowlabs.co/wireless-protocols)
 
