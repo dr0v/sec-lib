@@ -173,3 +173,17 @@
 [IoT 设备无线协议对照表](http://glowlabs.co/wireless-protocols)
 
 [如何黑掉基于ZigBee的IoT设备](http://bobao.360.cn/learning/detail/3813.html)
+
+[小米九号平衡车国际版Ninebot mini PRO存在严重安全漏洞可被攻击者远程控制](http://www.freebuf.com/news/141341.html)
+
+[身份互联网(IoI)来了 IAM将大放异彩](http://www.aqniu.com/learn/26776.html)
+
+[重放攻击无线键盘实验，篡改你的输入信息](http://www.freebuf.com/geek/140837.html)
+
+[对某品牌无人机的研究与劫持实验](http://www.freebuf.com/news/140453.html)
+
+ [IoT Devices Plagued by Lesser-Known Security Hole](https://www.darkreading.com/cloud/iot-devices-plagued-by-lesser-known-security-hole-/d/d-id/1329320)
+ 
+ [PoS malware hits food kiosks, steals payment card and biometric info](https://www.helpnetsecurity.com/2017/07/10/pos-malware-hits-food-kiosks/)
+ 
+ [出门刷卡要小心！一种可以从POS机终端收集信用卡信息的恶意软件出现了](http://www.ijiandao.com/news/opinions/62230.html)

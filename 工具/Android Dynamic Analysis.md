@@ -151,6 +151,6 @@
 
 [OSX/iOS逆向资源合集](https://github.com/michalmalik/osx-re-101)
 
-
+[【Blackhat】2017美国黑帽大会兵工厂工具列表](http://bobao.360.cn/learning/detail/4140.html)
 
 
