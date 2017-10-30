@@ -187,3 +187,11 @@
  [PoS malware hits food kiosks, steals payment card and biometric info](https://www.helpnetsecurity.com/2017/07/10/pos-malware-hits-food-kiosks/)
  
  [出门刷卡要小心！一种可以从POS机终端收集信用卡信息的恶意软件出现了](http://www.ijiandao.com/news/opinions/62230.html)
+ 
+ [新型IoT机顶盒恶意软件Rowdy网络分析报告](http://blog.nsfocus.net/iot-set-top-box-malware-rowdy-network-analysis-report/)
+ 
+ [新型IoT机顶盒恶意软件Rowdy网络分析报告](http://www.ijiandao.com/2b/baijia/73503.html)
+ 
+ [Cameradar：一款可以渗透CCTV摄像头的工具](http://www.freebuf.com/sectool/150254.html)
+ 
+ [斯巴鲁汽车被曝漏洞，可克隆钥匙开车门](http://www.freebuf.com/news/150583.html)

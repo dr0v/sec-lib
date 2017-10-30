@@ -153,4 +153,16 @@
 
 [【Blackhat】2017美国黑帽大会兵工厂工具列表](http://bobao.360.cn/learning/detail/4140.html)
 
+[最好用的17个渗透测试工具](http://www.aqniu.com/hack-geek/28188.html)
 
+[ACHE：一款功能强大的聚焦型网络爬虫](http://www.freebuf.com/geek/148568.html)
+
+[Hijacker：一款All-in-One型的Android端WiFi破解工具](http://www.freebuf.com/sectool/149812.html)
+
+[Poet：一款功能强大的后渗透工具](http://www.freebuf.com/sectool/150461.html)
+
+[Passionfruit：iOS应用黑盒评估工具](http://www.freebuf.com/column/151109.html)
+
+[moloch 网络流量回溯分析系统](https://www.secpulse.com/archives/63919.html)
+
+	
