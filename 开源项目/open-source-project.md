@@ -159,3 +159,5 @@
 [应急响应大合集](https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md)
 
 [一些优秀的POC列表](https://github.com/qazbnm456/awesome-cve-poc)
+
+[Poc, Presentation of Monitor OSD Exploitation, and shenanigans of high quality.](https://github.com/RedBalloonShenanigans/MonitorDarkly)
