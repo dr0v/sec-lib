@@ -37,7 +37,7 @@ ContentProvider.openFile(Uri uri, String mode)
 
 ### poc/exp
 
-#### 例子1 以乌云公开漏洞wooyun-2013-044407为例：
+#### 例子1 乌云公开漏洞wooyun-2013-044407：
 
 此APP实现中定义了一个可以访问本地文件的Content Provider组件，为com.ganji.android.jobs.html5.LocalFileContentProvider，因为使用了minSdkServison为“8”，targetSdkVersion=”13”，即此Content Provider采用默认的导出配置，即android:exported=”true”：
 
@@ -51,7 +51,7 @@ ContentProvider.openFile(Uri uri, String mode)
 
  
 
-例子2 
+#### 例子2 
 某社交应用客户端，使用了的minSDKVersion为8，定义了私有权限，并且android:protectionLevel设为了signature
 
 ![](png/content_provider_p_3.png)
