@@ -5,15 +5,15 @@
 	
 ContentProvider的权限没有做好控制，可能导致APP的敏感数据泄露
 
+content URI是一个标志provider中的数据的URI。Content URI中包含了整个provider的以符号表示的名字(它的authority)和指向一个表的名字(一个路径)。
+
+当调用一个客户端的方法来操作一个 provider 中的一个表，指向表的contentURI是参数之一，如果对ContentProvider的权限没有做好控制，就有可能导致恶意的程序通过这种方式读取APP的敏感数据。
+
 ### 影响范围
 
 近乎 Android 所有系统
 
 ### 漏洞详情
-
-content URI是一个标志provider中的数据的URI。Content URI中包含了整个provider的以符号表示的名字(它的authority)和指向一个表的名字(一个路径)。
-
-当调用一个客户端的方法来操作一个 provider 中的一个表，指向表的contentURI是参数之一，如果对ContentProvider的权限没有做好控制，就有可能导致恶意的程序通过这种方式读取APP的敏感数据。
 
 #### 漏洞位置
 
