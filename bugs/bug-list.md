@@ -6,4 +6,4 @@
 - [Android Webview远程代码执行漏洞](report/webview_rce_1.md)
 - [Android Drm service 堆溢出漏洞(CVE-2017-13253)](report/drm_service_overflow.md)
 - [AdobeReader 逻辑漏洞(CVE-2021-21037)](report/adobe_path_travel.md)
-- [Chrome V8命令执行漏洞（CVE-2022-1310）]()
+- [Chrome V8命令执行漏洞（CVE-2022-1310）](report/chrome_v8_UAF_1.md)
